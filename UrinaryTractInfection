@@ -1,0 +1,484 @@
+[
+    
+    {
+        "image": "?",
+        "title": "Urinary Tract Infection",
+        "steps": [
+            {
+                "title": "Step 1: Introduction",
+                "image": null,
+                "steps": [
+                    {
+                        "title": "Name",
+                        "image": null,
+                        "steps": [
+                            {
+                                "image": null,
+                                "title": "Scientific: Urinary Tract Infection (UTIs)",
+                                "steps": null
+                            },
+                            {
+                                "image": null,
+                                "title": "Common: Urinary Tract Infection (UTIs)",
+                                "steps": null 
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Description:”
+                        "image": null,
+                        "steps": [
+                            {
+                                "image": null,
+                                "title": "Most common bacterial infection worldwide",
+                                "steps": null
+                            },
+                            {
+                                "image": null,
+                                "title": "Causes inflammation in the urinary system, including kidneys, ureters, bladder and urethra",
+                                "steps": null
+                            },
+                            {
+                                "image": null,
+                                "title": " Affected organs can be damaged, leading to loss of function",
+                                "steps": null
+                            },
+                            {
+                                "image": null,
+                                "title": "Fatal if left untreated",
+                                "steps": null
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Statistics",
+                        "image": null,
+                        "steps": [
+                            {
+                                "image": null,
+                                "title": "150 million individuals are affected annually",
+                                "steps": null
+                            },
+                            {
+                                "image": null,
+                                "title": "1 in 5 women is estimated to have at least one UTI at some time in her life. Within that, 20% will have a second one and 30% will have three or more infections. ",
+                                "steps": null
+                            },
+                            {
+                                "image": null,
+                                "title": "Tanzania",
+                                "steps": [
+                                    {
+                                        "image": null,
+                                        "title": "63.47% of women aged 6-50 years have UTIs in 2017. Females aged 18-29 years or have a single marital status experienced a significant risk of UTIs.",
+                                        "steps": null
+                                    },
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "image": null,
+                "title": "Step 2: Emergency Treatment",
+                "steps": [
+                    {
+                        "image": null,
+                        "title": "What to do when waiting for professional help",
+                        "steps": [
+                            {
+                                "image": null,
+                                "title": "Drink plenty of water, preferably at least six to eight glasses of water a day to push the bacteria out of your urethra",
+                                "steps": null
+                            },
+                            {
+                                "image": null,
+                                "title": "Urinate when you have to, even if it is a small amount because you are likely to flush out bacteria along with your urine",
+                                "steps": null
+                            },
+                            {
+                                "image": null,
+                                "title": "Take probiotics (i.e, yogurts). Many studies have found benefits of utilizing the dominance of natural and healthy bacteria to replace harmful ones in preventing and treating UTIs. Some findings show moderate efficacy and safety when using these approaches. No side effects have been observed. However, further research must be considered before recommending the use of probiotics in public.",
+                                "steps": null
+                            },
+                            {
+                                "image": null,
+                                "title": "Avoid alcohol consumption which may cause bladder irritation and worsen UTI symptoms",
+                                "steps": null
+                            },
+                        ]
+                    },
+                    {
+                        "image": "?",
+                        "title": null,
+                        "steps": null
+                    }
+
+
+                ]
+            },
+            {
+                "image": null,
+                "title": "Step 3: Diagnosis",
+                "steps": [
+                    {
+                        "image": null,
+                        "title": "Warning Signs",
+                        "steps": [
+                            {
+                                "image": null,
+                                "title": "Fever",
+                                "steps": null
+                            },
+                            {
+                                "image": null,
+                                "title": "Chills",
+                                "steps": null
+                            },
+                            {
+                                "image": null,
+                                "title": "Nausea",
+                                "steps": null
+                            },
+                            {
+                                "image": null,
+                                "title": "Showing UTI signs during pregnancy",
+                                "steps": null
+                            }
+                        ]
+                    },
+                    {
+                        "image": null,
+                        "title": "Common Symptoms",
+                        "steps": [
+                            {
+                                "image": null,
+                                "title": "Constant urge to urinate with small volume of urine secreted",
+                                "steps": null
+                            },
+                            {
+                                "image": null,
+                                "title": "Painful and burning urination",
+                                "steps": null
+                            },
+                            {
+                                "image": null,
+                                "title": "Cloudy urine",
+                                "steps": null
+                            },
+                            {
+                                "image": null,
+                                "title": "Abnormal color and smell of a strong odor in urine; Urine that appears to be red or bright pink in color may suggest blood occurrence",
+                                "steps": null
+                            },
+                            {
+                                "image": null,
+                                "title": "Pelvic discomfort, typically occurs in women",
+                                "steps": null
+                            }
+                       
+                        ]
+                    },
+                    {
+                        "image": "?",
+                        "title": null
+                        "steps": null
+                    }
+
+
+                ]
+            },
+            {
+                "image": null,
+                "title": "Step 4: Common causes",
+                "steps": [
+                    {
+                        "image": null,
+                        "title": "The most common bacteria that cause UTIs are Escherichia coli. Although gut bacteria are the most common cause of UTIs, certain types of viruses, fungi, and parasites may attack the urinary tract in rare situation.",
+                        "steps": null
+                    },
+                    {
+                        "image": null,
+                        "title": "UTIs are categorized as upper or lower UTIs based on the site affected",
+                        "steps": null
+                    },
+                    {
+                        "image": null,
+                        "title": "Upper UTIs (pyelonephritis) emerge in the kidneys while lower UTIs include bladder infection (cystitis) and urethra infection (urethritis). UTIs generally stay in the bladder, however, the bacteria can spread to the kidneys and cause pyelonephritis if patients are not treated immediately and sufficiently. Urethritis can be caused by bacteria through sexual activity transmission.",
+                        "steps": null
+                    },
+                    {
+                        "image": null,
+                        "title": "In some cases, the distinction may not be clear enough for doctors to identify each type of UTIs",
+                        "steps": null
+                    },
+                    {
+                        "image": null,
+                        "title": "Women are at a higher risk of having UTIs than men due to anatomical differences. Men have longer urethra compared to women, making it harder for the bacteria to reach and infect the bladder. Women have the urethral opening closer to anus and vagina, allowing bacteria from sexual activity to enter the urinary tract easily.",
+                        "steps": null
+                    }
+                ]
+            },
+            {
+                "image": null,
+                "title": "Step 5: Preventative care",
+                "steps": [
+                    {
+                        "image": null,
+                        "title": "Family history",
+                        "steps": [
+                            {
+                                "image": null,
+                                "title": "There is a substantial and consistent relationship between family genetics and an increasing risk of UTIs",
+                                "steps": null
+                            },
+                            {
+                                "image": null,
+                                "title": "There is evidence of increasing bacteria adherence to the urinary system as a result of receptor overexpression on vaginal epithelial cells, blood group stimulation, individual non-secretor status, and hormonal status (i.e, bacteria binding is estrogen-dependent)",
+                                "steps": null
+                            },
+                            {
+                                "image": null,
+                                "title": "The genotype of susceptible immune system passing down in families may induce a higher risk of having UTIs",
+                                "steps": null
+                            }
+                        ]
+                    },
+                    {
+                        "image": null,
+                        "title": "Tests",
+                        "steps": [
+                            {
+                                "image": null,
+                                "title": "Immunizations",
+                                "steps": [
+                                    {
+                                        "image": null,
+                                        "title": "Although many UTI vaccines have been tested in clinical trials, the significant numbers of mixed results prevent UTI vaccine recommendations for public use",
+                                        "steps": null
+                                    },
+                                    {
+                                        "image": null,
+                                        "title": "Major challenges",
+                                        "steps": [
+                                {
+                                     “image”: null,
+                                      “title”: “Lack of adjuvant, a substance that gives rise to a stronger immune response, which results in bacterial antigens not capable of reaching the potential threshold required to effectively give protection against UTIs”,
+                                      “steps”: null
+                                },
+                                {
+                                      “image”: null,
+                                      “title”: “Because vaccines are injected using needles, they primarily stimulate the production of antibodies outside of the digestive tract rather than in the bladder where most of UTIs occur”,
+                                      “steps”: null
+                                               }
+                                ]
+                            },
+                            {
+                                "image": null,
+                                "title": "Blood tests",
+                                "steps": [
+                                    {
+                                        "image": null,
+                                        "title": "May be used if your doctor observes signs of UTIs spreading to the bloodstream or wants to develop the treatment plan following the strain of bacteria",
+                                        "steps": null
+                                    }
+                                ]
+                            },
+                            {
+                                "image": null,
+                                "title": "Screening",
+                                "steps": [
+                                    {
+                                        "image": null,
+                                        "title": "In common cases, your doctor may perform urine analysis to determine the presence of pathogen and urine culture to identify type of organism that is responsible for the infection",
+                                        "steps": null
+                                    },
+                                    {
+                                        "image": null,
+                                        "title": "In severe cases, cystoscopy is performed to examine the inside of the urethra and bladder through a long tube",
+                                        "steps": null
+                                    },
+                                    {
+                                        "image": null,
+                                        "title": "In rare cases, abnormal signs in the urinary system can be screened by using a CT scan of the abdomen and a detailed picture of the urinary tract can be obtained using magnetic resonance imaging (MRI) of the abdomen",
+                                        "steps": null
+                                    }
+                                ]
+                            },
+                            {
+                                "image": null,
+                                "title": "Lifestyle changes",
+                                "steps": [
+                                    {
+                                        "image": null,
+                                        "title": "Urinate when you have to",
+                                        "steps": [
+                                            {
+                                                "image": null,
+                                                "title": "Clean your genital thoroughly after urinating",
+                                                "steps": null
+                                            },
+                                            {
+                                                "image": null,
+                                                "title": "Avoid using feminine hygiene sprays",
+                                                "steps": null
+                                            },
+        {                        
+                                                "image": null,
+                                                "title": "Rehydrate yourself frequently",
+                                                "steps": null
+                                            },
+                                {                        
+                                                "image": null,
+                                                "title": "Wash your genitals before and after sex",
+                                                "steps": null
+                                            },
+                                {                        
+                                                "image": null,
+                                                "title": "Urinate after sex to flush out bacteria that may have entered the urinary tract",
+                                                "steps": null
+                                            },
+                                            {                        
+                                                "image": null,
+                                                "title": "Avoid drinking substances that may cause bladder irritation (i.e, alcohol)",
+                                                "steps": null
+                                            }
+                                   ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "image": null,
+                "title": "Step 6: Long-term treatment",
+                "steps": [
+                    {
+                        "image": null,
+                        "title": "Best option(s)",
+                        "steps": [
+                        {
+                        "image": null,
+                                "title": "Antibiotics is the most common treatment to fight against bacteria that infected the urinary tract",
+                                       "steps": null
+                                    },
+                                {
+                         "image": null,
+                                "title": "Do not stop taking prescribed medicine even if your symptoms disappear or your body shows improvement because it may lead to more severe infection or cause antibiotic resistance",
+                                       "steps": null
+                }
+                ]
+        },
+
+
+                    {
+                        "image": null,
+                        "title": "Access:",
+                        "steps": [
+                            {
+                                "image": null,
+                                "title": "UTI antibiotics cannot be purchased over-the-counter",
+                                "steps": null
+                            },
+                            {
+                                "image": null,
+                                "title": "Do not take medicine that was prescribed for another person",
+                                "steps": null
+                            },
+                            {
+                                "image": null,
+                                "title": "Disease severity and medical history may determines types of antibiotics, length, and dosage of treatment",
+                                "steps": null
+                            },
+                            {
+                                "image": null,
+                                "title": "Urologists: Specialists in disease of urinary tract system",
+                                "steps": null
+                            }
+                    ]
+                  },
+                      {
+                                "image": null,
+                                "title": "How to track",
+                                "steps": [
+                                    {
+                                        "image": null,
+                                        "title": "Stomach upset includes nausea, vomiting, a loss of appetite, stomach discomfort, or heartburn. If you are not instructed by your doctor to take antibiotics on an empty stomach, take it with food (i.e, a snack or a meal) to reduce stomach upset. If you vomit after taking the medicine, talk to your doctor right away to choose a different treatment.",
+                                        "steps": null
+                                    },
+                                    {
+                                        "image": null,
+                                        "title": "Diarrhea - This symptom will go away after you stop using antibiotics. Natural gut flora may be killed by certain broad-spectrum antibiotics, allowing pathogenic bacteria to overproduce. When you see signs of serious and bloody diarrhea following severe stomach cramps, consult with your doctor immediately to find the cause and come up with an alternative.",
+                                        "steps": null
+                                    },
+                         {
+                                        "image": null,
+                                        "title": "Vagina yeast infection: Antibiotics target other harmful bacteria, thereby inducing less competition between microbes. As a result, the balance of natural vaginal flora may be altered when using antibiotics, allowing fungi to overproduce.",
+                                        "steps": null
+                                    },
+                         {
+                                        "image": null,
+                                        "title": "Allergic reactions such as rash, skin peeling, and pain in mucous membranes. Some reactions can be fatal.",
+                                        "steps": null
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "image": null,
+                "title": "Step 7: Phytomedicine",
+                "steps": [
+                    {
+                        "image": null,
+                        "title": "Common myths",
+                        "steps": [
+                            {
+                                "image": null,
+                                "title": "Cranberry juice may lessen the severity of symptoms of UTIs  by reducing the adherence of bacterial invasion to cells lining in the urinary tract and soothing the inflammatory immune response",
+                                "steps": null
+                            },
+                            {
+                                "image": null,
+                                "title": "There are mixed results on whether cranberry juice has the potential to prevent or treat UTIs” 
+                     {
+                                "image": null,
+                                "title": “Although some studies suggest moderate efficacy, the use of cranberry juice faces major challenges, including inadequate affordability, requirements of highly concentrated and large doses, and low efficacy in patients with higher risk of UTIs",
+                                "steps": null
+                            }
+                        ]
+                    },
+                    {
+                        "image": null,
+                        "title": "Potential toxicity",
+                        "steps": [
+                            {
+                                "image": null,
+                                "title": "Consuming a large amount of cranberry juice with a high sugar content may result in severe gastrointestinal problems and associated side effects",
+                                "steps": null
+                            },
+                            {
+                                "image": null,
+                                "title": "Buchu is not recommended during pregnancy because it can be abortive, cause stomach and kidney irritation, and induce increased menstrual flow",
+                                "steps": null
+                            },
+                            {
+                                "image": null,
+                                "title": "Buchu is not recommended if you have pain and swelling in the urinary tract because it can slow blood clotting, worsening bleeding disorders. It may be unsafe in a large amount or oil form.",
+                                "steps": [
+                                    {
+                                        "image": null,
+                                        "title": "How to couple with Western medicine",
+                                        "steps": [
+                                            {
+                                                "image": null,
+                                                "title": "Some studies show that cranberry juice may reduce body absorption and metabolism of antibiotics that are used to treat UTIs",
+                                                "steps": null
+                                            },
+                                {
+                                                "image": null,
+                                                "title": "Talk with your doctor to discuss the benefits and harms if you are intended to consume cranberry supplement while using antibiotics",
+                                                "steps": null
